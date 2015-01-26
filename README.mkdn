@@ -1,0 +1,28 @@
+Themed holo taken from my old CM11 theme, holo is ugly ([screenshot](http://puu.sh/er8Od.jpg)).  Only two commits so revert them if you hate it.
+Personal preference changes.
+
+If you don't like something then revert it.
+
+Not posted anywhere but yes you can build it yourself if you really want to for whatever reason:
+
+repo init -u https://github.com/Lethargy/lethargy_manifest.git -b lollipop  
+repo sync -f  
+. build/envsetup.sh  
+lunch  
+make bacon
+
+==========================================================  
+
+
+Thanks:  
+[@lichti1901](https://github.com/lichti1901)  
+[@rascarlo](https://github.com/rascarlo)  
+[@Sykopompos](https://github.com/Sykopompos)  
+[@SlimRoms](https://github.com/SlimRoms)  
+[@CyanogenMod](https://github.com/CyanogenMod)  
+[@omnirom](https://github.com/omnirom)  
+[@Mahdi-Rom](https://github.com/Mahdi-Rom)  
+[@AOSPA](https://github.com/AOSPA)  
+[@SimpleAOSP](https://github.com/SimpleAOSP)  
+
+and any others I may have missed
