@@ -1,9 +1,11 @@
-Themed holo taken from my old CM11 theme, holo is ugly ([screenshot](http://puu.sh/er8Od.jpg)).  Only two commits so revert them if you hate it.  
-Various personal preference changes.
+Whatever I want in a ROM.  
+
+Themed holo taken from my old CM11 theme ([screenshot](http://puu.sh/er8Od.jpg)).  Only two commits so revert them if you hate it.  
+Other various personal preference changes.
 
 If you don't like something then revert it.
 
-Not posted anywhere but yes you can build it yourself if you really want to for whatever reason:
+Not posted anywhere but feel free to build it yourself if you really want to for whatever reason:
 
 repo init -u https://github.com/Lethargy/lethargy_manifest.git -b lollipop  
 repo sync -f  
