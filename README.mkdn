@@ -7,7 +7,7 @@ If you don't like something then revert it.
 
 Not posted anywhere but feel free to build it yourself if you really want to for whatever reason:
 
-repo init -u https://github.com/Lethargy/lethargy_manifest.git -b lollipop  
+repo init -u https://github.com/Elluel/elluel_manifest.git -b lollipop  
 repo sync -f  
 . build/envsetup.sh  
 lunch  
